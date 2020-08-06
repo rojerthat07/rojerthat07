@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Student, and Soon to be a Streamer!
 - 👨‍💻 I’m a Computer Science Student
-- 🎫 I’m focuses on being a Front-End Developer yet I had knowledge on the Server-Side Development
+- 🎫 I’m a Front-End Developer yet I had enough knowledge on the Server-Side Development
 - 👯 I’m looking to collaborate with other content creators
 - 🏆 2020 Goals: Have a Job in the IT Industry
 - ♟️ Fun fact: I play chess, I lift weights, I can play guitar and I enjoy playing videogames 
@@ -29,7 +29,8 @@
 
 
 <br />
-
+<br />
+<br />
 
 
 <img align="left" alt="Jer Carlo Github Stats" src="https://github-readme-stats.vercel.app/api?username=rojerthat07&show_icons=true&hide_border=true&theme=algolia" />
