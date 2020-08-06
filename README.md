@@ -1,4 +1,4 @@
-### Hi there, I'm Jer Carlo - You can call me [Jer-kun][website] 👋
+### Hi there, I'm Jer Carlo - You can call me [Jer-kun][website] (´• ω •`)
 
 ## I'm a Web Developer, Student, and Soon to be a Streamer!
 - 👨‍💻 I’m a Computer Science Student
@@ -9,11 +9,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/njx7kX9/site-logo.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful/2048/5295_-_Youtube_I-512.png" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
+[<img align="left" alt="jercarlocatallo.ga" width="22px" src="https://i.ibb.co/njx7kX9/site-logo.png" />][website]
+[<img align="left" alt="jercarlocatallo.ga" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
+[<img align="left" alt="jercarlocatallo.ga | YouTube" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful/2048/5295_-_Youtube_I-512.png" />][youtube]
+[<img align="left" alt="jercarlocatallo.ga | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" />][twitter]
+[<img align="left" alt="jercarlocatallo.ga | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="jercarlocatallo.ga | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 <br />
 
 
@@ -35,6 +36,7 @@
 
 <img align="left" alt="Jer Carlo Github Stats" src="https://github-readme-stats.vercel.app/api?username=rojerthat07&show_icons=true&hide_border=true&theme=algolia" />
 
+[facebook]: https://www.facebook.com/jercarlo.jc
 [website]: https://jercarlocatallo.ga
 [twitter]: https://twitter.com/jer_carlo
 [youtube]: https://www.youtube.com/channel/UCg16uEfcc4iFRf26ptguavw
