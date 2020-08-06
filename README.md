@@ -35,7 +35,9 @@
 
 <img align="left" alt="Jer Carlo Github Stats" src="https://github-readme-stats.vercel.app/api?username=rojerthat07&show_icons=true&hide_border=true&theme=algolia" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojerthat07)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojerthat07&hide=php&theme=algolia)](https://github.com/rojerthat07/rojerthat07)
 
 [facebook]: https://www.facebook.com/jercarlo.jc
 [website]: https://jercarlocatallo.ga
