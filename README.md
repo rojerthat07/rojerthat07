@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/njx7kX9/site-logo.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful/2048/5295_-_Youtube_I-512.png" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://i.pinimg.com/originals/19/7b/36/197b365922d1ea3aa1a932ff9bbda4a6.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
