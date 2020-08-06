@@ -37,7 +37,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojerthat07&hide=php&theme=algolia)](https://github.com/rojerthat07/rojerthat07)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojerthat07&hide=php&layout=compact&theme=algolia)](https://github.com/rojerthat07/rojerthat07)
 
 [facebook]: https://www.facebook.com/jercarlo.jc
 [website]: https://jercarlocatallo.ga
