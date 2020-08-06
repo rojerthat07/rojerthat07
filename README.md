@@ -34,8 +34,6 @@
 ---
 
 
-<img align="left" alt="Jer Carlo Github Stats" src="https://github-readme-stats.vercel.app/api?username=rojerthat07&show_icons=true&hide_border=true?theme=blue-green" />
-
 [website]: https://jercarlocatallo.ga
 [twitter]: https://twitter.com/jer_carlo
 [youtube]: https://www.youtube.com/channel/UCg16uEfcc4iFRf26ptguavw
