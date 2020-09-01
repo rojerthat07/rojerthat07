@@ -1,4 +1,4 @@
-### Hi there, I'm Jer Carlo - You can call me [Jer-kun][website] (´• ω •`)
+### Hi there, I'm Jer Carlo Catallo - You can call me Jer[website] (´• ω •`)
 
 ## I'm a Web Developer, Student, and Soon to be a Streamer!
 
