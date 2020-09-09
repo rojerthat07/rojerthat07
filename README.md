@@ -5,7 +5,7 @@
 - 👨‍💻 I’m a Computer Science Student
 - 🎫 I’m a Front-End Developer yet I had enough knowledge on the Back-End Development
 - 👯 I’m looking to collaborate with other programmers
-- 🏆 2020 Goals: Have a Job in the IT Industry✅
+- 🏆 2020 Goals: ✅Have a Job in the IT Industry
 - ♟️ Fun fact: I play chess, I lift weights, I can play guitar and I enjoy playing videogames
 
 ### Connect with me:
