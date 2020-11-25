@@ -3,9 +3,9 @@
 ## I'm a Web Developer, Student, and Soon to be a Streamer!
 
 - 👨‍💻 I’m a Computer Science Student
-- 🎫 I’m a Front-End Developer yet I had enough knowledge on the Back-End Development
+- 🎫 I’m a Web Developer from Front to Back
 - 👯 I’m looking to collaborate with other programmers
-- 🏆 2020 Goals: Have a Job in the IT Industry
+- 🏆 2021 Goals: Coming Soon!
 - ♟️ Fun fact: I play chess, I lift weights, I can play instrument and I enjoy playing videogames
 
 ### Connect with me:
