@@ -26,7 +26,7 @@
 <img align="left" alt="React" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="156px" src="https://camo.githubusercontent.com/fad67ff58b4ce7e68b96e7b8a61e5d3f09a4ec8eedb780cde50853c2d1786463/68747470733a2f2f657870726573736a732e636f6d2f696d616765732f657870726573732d66616365626f6f6b2d73686172652e706e67" />
-<img align="left" alt="MongoDB" width="116px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
+<img align="left" alt="MongoDB" width="146px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
 
 
 <br />
