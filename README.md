@@ -31,7 +31,6 @@
 <br />
 <br />
 
-<img align="left" alt="Jer Carlo Github Stats" src="https://github-readme-stats.vercel.app/api?username=rojerthat07&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
 
 <br />
 
