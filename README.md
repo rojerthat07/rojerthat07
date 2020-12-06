@@ -1,6 +1,6 @@
-### Hi there, I'm Jer Carlo Catallo - You can call me [Jer][website] (´• ω •`)
+<h3 align="left">Hi there, I'm Jer Carlo Catallo - You can call me [Jer][website] (´• ω •`)</h3>
 
-## I'm a Web Developer, Student, and Soon to be a Streamer!
+<h2 align="left">I'm a Web Developer, Student, and Soon to be a Streamer!</h2>
 
 <p align="left">- 👨‍💻 I’m a Computer Science Student</p>
 <p align="left">- 🎫 I’m a Web Developer from Front to Back</p>
