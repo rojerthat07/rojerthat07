@@ -2,11 +2,11 @@
 
 ## I'm a Web Developer, Student, and Soon to be a Streamer!
 
-- 👨‍💻 I’m a Computer Science Student
-- 🎫 I’m a Web Developer from Front to Back
-- 👯 I’m looking to collaborate with other programmers
-- 🏆 2021 Goals: Coming Soon!
-- ♟️ Fun fact: I play chess, I lift weights, I can play instrument and I enjoy playing videogames
+<p align="left">- 👨‍💻 I’m a Computer Science Student</p>
+<p align="left">- 🎫 I’m a Web Developer from Front to Back</p>
+<p align="left">- 👯 I’m looking to collaborate with other programmers</p>
+<p align="left">- 🏆 2021 Goals: Coming Soon!</p>
+<p align="left">- ♟️ Fun fact: I play chess, I lift weights, I can play instrument and I enjoy playing videogames</p>
 
 ### Connect with me:
 
