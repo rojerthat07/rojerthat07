@@ -1,4 +1,4 @@
-<h3 align="left">Hi there, I'm Jer Carlo Catallo - You can call me [Jer][website] (´• ω •`)</h3>
+Hi there, I'm Jer Carlo Catallo - You can call me [Jer][website] (´• ω •`)
 
 <h2 align="left">I'm a Web Developer, Student, and Soon to be a Streamer!</h2>
 
