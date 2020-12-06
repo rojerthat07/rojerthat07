@@ -1,5 +1,5 @@
 Hi there, I'm Jer Carlo Catallo - You can call me [Jer][website] (´• ω •`)
-<img src="https://i.pinimg.com/originals/58/15/2a/58152a79c903f006a55a9c6d8a0c65e7.png" width="400px" align="right" alt="man">
+<img src="https://i.pinimg.com/originals/58/15/2a/58152a79c903f006a55a9c6d8a0c65e7.png" width="600px" align="right" alt="man">
 <h2 align="left">I'm a Web Developer, Student, and Soon to be a Streamer!</h2>
 
 <p align="left">- 👨‍💻 I’m a Computer Science Student</p>
