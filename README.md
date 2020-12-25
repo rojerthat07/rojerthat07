@@ -4,7 +4,7 @@
 <p align="left">- 👨‍💻 I’m a Computer Science Student</p>
 <p align="left">- 🎫 I’m a Web Developer from Front to Back</p>
 <p align="left">- 👯 I’m looking to collaborate with other programmers</p>
-<p align="left">- 🏆 2021 Goals: 5k Follower on Facebook Page(Talyho TV)!</p>
+<p align="left">- 🏆 2021 Goals: 5k Followers on Facebook Page(Talyho TV)!</p>
 <p align="left">- ♟️ Fun fact: I play chess, I lift weights, I can play instrument and I enjoy playing videogames</p>
 
 ### Connect with me:
