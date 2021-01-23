@@ -26,7 +26,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Mocha" width="26px" src="https://i.pinimg.com/originals/a8/cd/72/a8cd7226af27708edd6c6992f7fba40e.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://mongodb-js.github.io/leaf/mongodb-leaf_256x256.png" />
-<img align="left" alt="SQLite" width="26px" src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" />
+<img align="left" alt="SQLite" width="36px" src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" />
 <img align="left" alt="jQuery" width="26px" src="https://www.nicepng.com/png/full/274-2741839_jquery-jquery-logo-transparent-background.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
